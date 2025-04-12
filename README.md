@@ -56,6 +56,7 @@
 
 
 ###
-<h3>my portifolio <a>https://portifolio-on.vercel.app/</a></h3>
+<h3>my portifolio <a href="https://portifolio-on.vercel.app/" target="_blank">my portifolio</a>
+</h3>
 
 
