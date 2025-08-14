@@ -6,7 +6,7 @@ Me chamo Gabriel Ferreira, tenho 20 anos e sou natural de São Paulo.
 Após concluir o ensino médio, ingressei na faculdade de Análise e Desenvolvimento de Sistemas. Atualmente estou no 4º semestre.
 Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu LinkedIn. "[Gabriel Ferreira](https://www.linkedin.com/in/gabriel-ferreira-044255267)"
 
-<img align="right" alt="" height="190px" position="relative" src="./src/studycode2.gif">
+<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
 
 #
 
