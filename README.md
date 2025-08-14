@@ -5,7 +5,20 @@ ________________________________________________________________________________
 Me chamo Gabriel Ferreira, tenho 20 anos e sou natural de São Paulo. 
 Após concluir o ensino médio, ingressei na faculdade de Análise e Desenvolvimento de Sistemas. Atualmente estou no 4º semestre.
 Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu LinkedIn. "[Gabriel Ferreira](https://www.linkedin.com/in/gabriel-ferreira-044255267)"
-__________________________________________________________________________________________________
+
+<img align="right" alt="" height="190px" position="relative" src="./src/studycode2.gif">
+
+#
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrielferreiradesouza5513@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabriel-ferreira-044255267)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/umggabriel/)
+
+
+
+#
  ### 🤖 Linguagens e Tecnologias
 <br>
 <br>
@@ -117,6 +130,7 @@ ________________________________________________________________________________
 
 <br>
 
+
 ### 📊 Estatísticas
 <p>
 <img
@@ -132,6 +146,8 @@ ________________________________________________________________________________
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielferr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
+
+
 #
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bielferr/bielferr/output/github-contribution-grid-snake-dark.svg">
