@@ -8,12 +8,6 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 
 
 #
-<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
-
-
-
-
-
 
 
 <h3 align="left">Connect with me!</h3>
@@ -23,6 +17,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/umggabriel/)
 
 
+<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
 
 
  ### 🤖 Linguagens e Tecnologias
