@@ -21,8 +21,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 
 
  ### 🤖 Linguagens e Tecnologias
-<br>
-<br>
+ #
 
 <img
   align="left"
@@ -32,6 +31,16 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
+
+<img
+  align="left"
+  alt="HTML"
+  title="HTML"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
 <img
   align="left"
   alt="CSS"
@@ -128,11 +137,23 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
-
-<br>
-
-
-### 📊 Estatísticas
+<br/>
+<br/>
+<br/>
+<img
+  align="left"
+  alt="mySQL"
+  title="MySQL"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+###    📊Estatísticas
 <p>
 <img
   align="left"
