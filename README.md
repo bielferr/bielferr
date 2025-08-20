@@ -17,8 +17,6 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/umggabriel/)
 
 
-<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
-
 
  ### 🤖 Linguagens e Tecnologias
  #
@@ -113,8 +111,6 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-<br/>
-<br/>
 
 <img
   align="left"
@@ -124,8 +120,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
-<br/>
-<br/>
+
 
 <img
   align="left"
@@ -135,8 +130,7 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
 />
-<br/>
-<br/>
+
 
 <img
   align="left"
@@ -162,6 +156,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 <br/>
 <br/>
 <br/>
+
+
+<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
 ###    📊Estatísticas
 <p>
 <img
