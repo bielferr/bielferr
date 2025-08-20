@@ -29,16 +29,6 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
-
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-
 <img
   align="left"
   alt="CSS"
@@ -47,6 +37,16 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+<img
+  align="left"
+  alt="nodejs"
+  title="nodejs"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
+
 <img
   align="left"
   alt="JavaScript"
@@ -78,6 +78,24 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   width="30px"
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Next.js"
+  title="Next.js"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+/>
+
+<img
+  align="left"
+  alt="Nest.js"
+  title="Nest.js"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
 />
 <img
   align="left"
