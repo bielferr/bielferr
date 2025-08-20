@@ -113,6 +113,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+<br/>
+<br/>
+
 <img
   align="left"
   alt="Java"
@@ -121,6 +124,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<br/>
+<br/>
+
 <img
   align="left"
   alt="mongodb"
@@ -129,6 +135,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
 />
+<br/>
+<br/>
+
 <img
   align="left"
   alt="mySQL"
