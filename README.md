@@ -159,6 +159,10 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 
 
 <img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
+<br/>
+<br/>
+<br/>
+<br/>
 ###    📊Estatísticas
 <p>
 <img
