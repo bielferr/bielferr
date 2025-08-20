@@ -156,9 +156,9 @@ Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu meu
 <br/>
 <br/>
 <br/>
+<img align="right" alt="" height="120px" position="relative" src="./src/studycode2.gif">
 
 
-<img align="right" alt="" height="150px" position="relative" src="./src/studycode2.gif">
 <br/>
 <br/>
 <br/>
